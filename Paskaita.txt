@@ -1,0 +1,5 @@
+Tree sort - best case O(n * log n), worst case O(n^2), average case O(n * log n)
+Heap sort - best case O(n*log n), worst case O(n*log n), average case O(n * log n)
+Merge sort - best = worst = average case O(n*log n)
+Strand sort - best case O(n*log n), worst case O(n^2), average case O(n*log n)
+Quick sort
